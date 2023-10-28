@@ -1,5 +1,5 @@
 
-import "./app.scss";
+import "./App.scss";
 import Contact from "./components/contact/Contact";
 import Cursor from "./components/cursor/Cursor";
 import Hero from "./components/hero/Hero";
